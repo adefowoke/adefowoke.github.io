@@ -1,0 +1,68 @@
+body {
+    text-align: center;
+    background-color: purple;
+}
+
+h1 {
+    font-family: Monoton;
+    font-size: 70px;
+    margin: 0.2em;
+}
+
+h1,
+h2 {
+    color: turquoise;
+}
+
+h2 {
+    margin: 1em 0 0.25em;
+}
+
+h2:first-of-type {
+    margin-top: 0.5em;
+}
+
+table,
+tr,
+td {
+    border: 1px solid black;
+}
+
+form>Grid Height {
+    font-size: 10px;
+    font-style: unset;
+    color: turquoise;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+    border: 5px solid rgba(170, 136, 24, 0.979);
+}
+
+tr {
+    height: 20px;
+}
+
+td {
+    width: 20px;
+}
+
+input[type=number] {
+    width: 6em;
+}
+
+input[type="submit"] {
+    display: inline;
+    color: turquoise;
+    background-color: black;
+}
+
+input[type="number"] {
+    display: inline;
+    background-color: yellow;
+}
+
+input[type=number]:focus {
+    background-color: rgb(192, 82, 48);
+}
