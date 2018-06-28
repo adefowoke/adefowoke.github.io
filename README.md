@@ -18,4 +18,4 @@ This repository is the starter code for _all_ Udacity students. Therefore, we mo
 
 
 ## final challenge
-http://adefowoke.github.io/
+[here](http://adefowoke.github.io/)
