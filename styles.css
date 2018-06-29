@@ -50,8 +50,8 @@ input[type=number] {
 
 input[type="submit"] {
     display: inline;
-    color: rosybrown;
-    background-color: gray;
+    color: red;
+    background-color: black;
 }
 
 
