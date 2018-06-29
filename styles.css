@@ -1,6 +1,7 @@
 body {
     text-align: center;
     background-image: url("paper.gif");
+    font-size: 100%;
 }
 
 h1 {
@@ -9,11 +10,6 @@ h1 {
     margin: 0.2em;
     padding: 20px;
     text-shadow: 0 0 3px #FF0000, 0 0 5px gray;
-}
-
-h1,
-h2 {
-    color: black;
 }
 
 h2 {
@@ -44,6 +40,12 @@ td {
     width: 20px;
 }
 
+form {
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+}
+
 input[type=number] {
     width: 6em;
     background-color: rosybrown;
@@ -51,9 +53,10 @@ input[type=number] {
 
 input[type="submit"] {
     display: inline;
-    color: white;
+    color: rgb(202, 29, 29);
     background-color: black;
-    border-radius: 40px;
+    border-radius: 20px;
+    font-size: 20px;
 }
 
 
