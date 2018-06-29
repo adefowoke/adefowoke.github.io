@@ -12,7 +12,7 @@ h1 {
 
 h1,
 h2 {
-    color: turquoise;
+    color: black;
 }
 
 h2 {
@@ -32,7 +32,7 @@ td {
 table {
     border-collapse: collapse;
     margin: 0 auto;
-    border: 5px solid rgba(170, 136, 24, 0.979);
+    border: 5px solid rgba(22, 17, 2, 0.979);
 }
 
 tr {
@@ -54,10 +54,6 @@ input[type="submit"] {
     background-color: gray;
 }
 
-input[type="number"] {
-    display: inline;
-    background-color: yellow;
-}
 
 input[type=number]:focus {
     background-color: rgb(192, 82, 48);
