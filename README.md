@@ -17,5 +17,5 @@ This repository is the starter code for _all_ Udacity students. Therefore, we mo
 
 
 
-## final challenge
- click [here](http://adefowoke.github.io/)
+## final challenge for the udacity frontend-web-dev
+ To access the pixel art maker click [here](http://adefowoke.github.io/)
