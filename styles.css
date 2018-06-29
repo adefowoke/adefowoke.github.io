@@ -1,6 +1,7 @@
 body {
     text-align: center;
-    background-color: purple;
+    /*background-color: purple;*/
+    background-image: url("paper.gif");
 }
 
 h1 {
