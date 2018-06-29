@@ -38,6 +38,7 @@ table {
     border-collapse: collapse;
     margin: 0 auto;
     border: 5px solid rgba(170, 136, 24, 0.979);
+     background-color: aliceblue;
 }
 
 tr {
