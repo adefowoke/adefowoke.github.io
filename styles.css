@@ -7,6 +7,7 @@ h1 {
     font-family: Monoton;
     font-size: 70px;
     margin: 0.2em;
+    padding: 20px;
     text-shadow: 0 0 3px #FF0000, 0 0 5px gray;
 }
 
@@ -50,8 +51,9 @@ input[type=number] {
 
 input[type="submit"] {
     display: inline;
-    color: red;
+    color: white;
     background-color: black;
+    border-radius: 40px;
 }
 
 
