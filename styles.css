@@ -1,6 +1,5 @@
 body {
     text-align: center;
-    /*background-color: purple;*/
     background-image: url("paper.gif");
 }
 
@@ -8,6 +7,7 @@ h1 {
     font-family: Monoton;
     font-size: 70px;
     margin: 0.2em;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px gray;
 }
 
 h1,
@@ -29,17 +29,10 @@ td {
     border: 1px solid black;
 }
 
-form>Grid Height {
-    font-size: 10px;
-    font-style: unset;
-    color: turquoise;
-}
-
 table {
     border-collapse: collapse;
     margin: 0 auto;
     border: 5px solid rgba(170, 136, 24, 0.979);
-     background-color: aliceblue;
 }
 
 tr {
@@ -52,12 +45,13 @@ td {
 
 input[type=number] {
     width: 6em;
+    background-color: rosybrown;
 }
 
 input[type="submit"] {
     display: inline;
-    color: turquoise;
-    background-color: black;
+    color: rosybrown;
+    background-color: gray;
 }
 
 input[type="number"] {
