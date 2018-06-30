@@ -30,6 +30,7 @@ table {
     border-collapse: collapse;
     margin: 0 auto;
     border: 5px solid rgba(22, 17, 2, 0.979);
+    background-color: white;
 }
 
 tr {
