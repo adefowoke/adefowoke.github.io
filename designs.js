@@ -1,7 +1,7 @@
 // Select color input
 // Select size input
 // create variable
-var height, width, color;
+let height, width, color;
 // When size is submitted by the user, call makeGrid()
 // use submit method to call the makeGrid
 $('#sizePicker').submit(function(event) {
@@ -13,7 +13,7 @@ $('#sizePicker').submit(function(event) {
         //console.log('Height: ' + height + 'and width: ' + width);
 
     })
-    // set parameter x, y
+    // set parameter x, y to form the grid
 function makeGrid(x, y) {
     //clear table
     $('tr').remove();
