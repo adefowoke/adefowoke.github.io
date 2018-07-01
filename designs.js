@@ -1,7 +1,7 @@
 // Select color input
 // Select size input
 // create variable
-const height, width, color;
+let height, width, color;
 // When size is submitted by the user, call makeGrid()
 // use submit method to call the makeGrid
 $('#sizePicker').submit(function(event) {
